@@ -121,7 +121,7 @@ python wrs.py -h
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/fgiorgio/redirections-tester/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/fgiorgio/web-responsive-screenshots/tags). 
 
 ## Authors
 
