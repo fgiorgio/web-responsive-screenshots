@@ -1,0 +1,5 @@
+.idea
+screenshots/*
+!screenshots
+config.json
+pages.csv
